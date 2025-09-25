@@ -1,2 +1,2 @@
 # WebDev_Project_SneakyGolems
-Sofia Martinez is our client
+we are creating a website that recommends anime in many genres, it will have headings of the different genres of anime and within that, there will be clear pictures of every single anime so you can have a preview of the art style. You will have the description of the anime made by the creators, then get a rating from us followed by an accurate in-depth analysis of the anime.
